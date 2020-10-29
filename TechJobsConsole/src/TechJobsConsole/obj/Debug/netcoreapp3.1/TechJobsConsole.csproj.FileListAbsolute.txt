@@ -1,0 +1,14 @@
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.exe
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp3.1\job_data.csv
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.deps.json
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.runtimeconfig.json
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.runtimeconfig.dev.json
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.dll
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.pdb
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.csprojAssemblyReference.cache
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.AssemblyInfoInputs.cache
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.AssemblyInfo.cs
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.csproj.CoreCompileInputs.cache
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.dll
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.pdb
+C:\Users\bkara\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.genruntimeconfig.cache
